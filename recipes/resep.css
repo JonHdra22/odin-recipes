@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  font-family: Monospace, Courier, monospace;
+}
+
+.title {
+  padding-top: 40px;
+  text-align: center;
+}
